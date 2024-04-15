@@ -1,0 +1,36 @@
+📊 Excited to share my recent Power BI interactive dashboard created during the BE10X workshop! 🚀
+
+1️⃣ Data Transformation:
+Started by uploading Big Shop Sales data into Power BI and performed essential data transformation tasks.
+
+2️⃣ Custom Columns:
+Created two new columns - "Total Cost" and "Margin of 20%" - to enhance the analysis and insights.
+
+3️⃣ Clustered Column Charts:
+Developed three clustered column charts to visualize the sum of margin by month, sum of margin by region, and item cost 
+and margin by salesperson, providing a comprehensive overview of the sales performance.
+
+4️⃣ Line Chart:
+Utilized a line chart to depict the trend of items sold over the years and months, offering insights into sales patterns.
+
+5️⃣ Gauge Charts:
+Integrated two gauge charts to display the total cost and sum of margin at 20%, enabling quick assessment of key metrics
+at a glance.
+
+6️⃣ Cards:
+Incorporated two cards to showcase the total number of items and total cost, offering concise summaries of essential metrics.
+
+7️⃣ Slicers:
+Implemented four slicers for filtering data by region, customer, product, and salesperson, enhancing interactivity and 
+flexibility in exploring the dashboard.
+
+8️⃣ Pie Charts:
+Introduced two pie charts to illustrate the distribution of regions by salesperson and products by region, facilitating a deeper
+understanding of sales distribution.
+
+9️⃣ Donut Charts:
+Created two donut charts to visualize the sum of items by customer and region by customer, providing insights into customer 
+segmentation and preferences.
+
+Excited to leverage these powerful visualizations for data-driven decision-making and drive impactful insights. Looking forward to
+sharing more insights and learning experiences!
